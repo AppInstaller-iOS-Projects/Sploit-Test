@@ -9,7 +9,7 @@ With this app you can test if your device is vulnerable to this bug. If it is, i
 
 ## How to use:
 
-Sideload the application and run it. Press the Run PoC button. If the device reboots, it's vulnerable. If nothing happens, it's not.
+Sideload the application and run it. Press the Reboot button. If the device reboots, it's vulnerable. If nothing happens, it's not.
 
 ## Credits 
 
