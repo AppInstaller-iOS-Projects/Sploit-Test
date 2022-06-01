@@ -15,5 +15,5 @@ Sideload the application and run it. Press the Run PoC button. If the device reb
 
 * App developed by AppInstaller iOS (@AppInstalleriOS): https://twitter.com/AppInstalleriOS
 * Original App developed by GeoSn0w (@FCE365): https://twitter.com/FCE365
-* DebianArch Helped Make It Work (@AppInstalleriOS): https://twitter.com/AppInstalleriOS
+* DebianArch Helped Make It Work (@DebianArch): https://twitter.com/DebianArch
 * PoC by @Synacktiv: https://twitter.com/Synacktiv/status/1504142757157384198
